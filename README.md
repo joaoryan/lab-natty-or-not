@@ -1,12 +1,15 @@
 Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
 📒 Descrição
+
 Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial do Futuro das IAs Generativas.
 
 🤖 Tecnologias Utilizadas
+
 IA Generativa ChatGPT para roteirização e revisão;
 IA Generativa D-ID para sintetização de voz e geração de avatar virtual;
 
 🧐 Processo de Criação
+
 Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo.
 
 🚀 Resultados
