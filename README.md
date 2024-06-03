@@ -10,6 +10,7 @@ IA Generativa D-ID para sintetização de voz e geração de avatar virtual;
 Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo.
 
 🚀 Resultados
+
 Neste vídeo de um minuto, exploramos o futuro incrível das IAs generativas. Descubra como essas inteligências artificiais estão transformando a criação artística, a escrita e diversas indústrias. Imagine um mundo onde humanos e IAs trabalham juntos, criando inovações surpreendentes e solucionando problemas globais. Inscreva-se no canal e ative as notificações para mais insights sobre o futuro!
 
 https://studio.d-id.com/share?id=23ab561f206d61a4dfcdd26c9e395d60&utm_source=copy
